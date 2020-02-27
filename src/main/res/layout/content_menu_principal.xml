@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MenuPrincipal"
+    tools:showIn="@layout/app_bar_menu_principal"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        >
+
+        <ProgressBar
+            android:id="@+id/myProgressBar"
+            style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+            android:progressDrawable="@drawable/blueprogressbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.1"
+            />
+
+        <!-- image view para exibir o icone
+            <ImageView
+                android:id="@+id/myImageView"
+                app:srcCompat="@drawable/home"
+                android:layout_weight="0.9"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+            />
+-->
+    </LinearLayout>
+
+    <WebView
+        android:id="@+id/store"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:ignore="MissingConstraints" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,394 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:1-83:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a6a7cca842eeffe3fce0ba06bdc71c4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3636529a0a3c3a6d33ef8838b5e894c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\babaeaf27bf2acbabd636f7584bc9947\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\1f718ef461496b32c22228bea621d889\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af17bad0b37144afb746b392ad18d574\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5ed1ce131a613dd12bc41036f9ebee0d\AndroidManifest.xml:17:1-22:12
+MERGED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:17:1-46:12
+MERGED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:2:1-37:12
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f1aa48a48ed8656ca851e7609012ad52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ce0b56e0ddc7873c538e16242c442da2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4b65530db385cdda49e0784e67029e12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\343cda36dbdc91db197d508f936a866a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b4202117c2bacd0cf59dc09f4f443ed9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\62814d9bd1bb4ea37f78100fd080dc73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\38d1f70ed39900782e9f03d7c2c58029\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d31a39ca61bfaafef3cd1e13c90fd25a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8e65475d36764f9c9377f1892bd86ca5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0891f5202afcf1323d0fef880a6a5bce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3ac1a1435f45969b05c6d9bfabe66a7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0e25c1040f9c982b13e458d85ab949a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\21798cc4f73b106981f9288cb078eceb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\83e88cf74b2811f9517797cf615ab63d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c4b3c700276ecc42190a96cdc0e43214\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1771f6de514aa6b20385aa294bca0ab\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2525e1d828f1499ca02031774adf0653\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\fde878969475dc0507866a139ca11d2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\52d8dcd95e40c821349490d4685d57e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\acc53097bd6f9897ffe77b8c02e45980\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ea54fdc63895ee96dccdd1fe72db2ee4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e6a26e4c76302b3f65cdbed319fc9943\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\bef014365bb18ac9f645a0267a92fa68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\932ef00f4a94417a7d0f56e2b4aa7256\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8c88403f22e4e239c2023de968b8b52d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f3b35a2820fc90b22c5c8b23fae4a1d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b89903f7c24b5a2b0d16da4da7c1390e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:1-83:12
+	package
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:1-83:12
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:1-83:12
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:7:5-12:40
+	android:largeScreens
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:8:9-34
+uses-feature#0x00020000
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:14:5-54
+	android:glEsVersion
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:14:19-51
+uses-permission#android.permission.INTERNET
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:16:5-67
+MERGED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:12:5-67
+MERGED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:12:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:17:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:17:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:19:5-21:36
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:21:9-33
+		MERGED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:20:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:23:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:26:9-53
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:29:5-81
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:17:5-81
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:30:22-77
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:33:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:36:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:39:9-72
+application
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:42:5-81:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a6a7cca842eeffe3fce0ba06bdc71c4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a6a7cca842eeffe3fce0ba06bdc71c4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\babaeaf27bf2acbabd636f7584bc9947\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\babaeaf27bf2acbabd636f7584bc9947\AndroidManifest.xml:9:5-20
+MERGED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:30:5-44:19
+MERGED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:30:5-44:19
+MERGED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:14:5-35:19
+MERGED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:14:5-35:19
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:19:5-30:19
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:19:5-30:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c4b3c700276ecc42190a96cdc0e43214\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c4b3c700276ecc42190a96cdc0e43214\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1771f6de514aa6b20385aa294bca0ab\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1771f6de514aa6b20385aa294bca0ab\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c4b3c700276ecc42190a96cdc0e43214\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:44:9-41
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:19:18-44
+	tools:ignore
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:46:9-48
+	android:icon
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:43:9-57
+	android:theme
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:45:9-40
+activity#br.com.paraisodascores.MenuPrincipal
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:47:9-57:20
+	android:screenOrientation
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:49:13-45
+	android:theme
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:48:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:55:27-74
+activity#br.com.paraisodascores.UnityPlayerActivity
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:58:9-69:20
+	android:screenOrientation
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:62:13-45
+	android:launchMode
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:63:13-44
+	android:hardwareAccelerated
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:61:13-48
+	android:configChanges
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:60:13-194
+	android:theme
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:59:13-48
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:66:13-68:40
+	android:value
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:68:17-37
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:67:17-57
+meta-data#unity.build-id
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:71:9-73:68
+	android:value
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:73:13-65
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:72:13-42
+meta-data#unity.splash-mode
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:74:9-76:33
+	android:value
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:76:13-30
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:75:13-45
+meta-data#unity.splash-enable
+ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:77:9-79:37
+	android:value
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:79:13-34
+	android:name
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml:78:13-47
+uses-sdk
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a6a7cca842eeffe3fce0ba06bdc71c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a6a7cca842eeffe3fce0ba06bdc71c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3636529a0a3c3a6d33ef8838b5e894c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3636529a0a3c3a6d33ef8838b5e894c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\babaeaf27bf2acbabd636f7584bc9947\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\babaeaf27bf2acbabd636f7584bc9947\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\1f718ef461496b32c22228bea621d889\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\1f718ef461496b32c22228bea621d889\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af17bad0b37144afb746b392ad18d574\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af17bad0b37144afb746b392ad18d574\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5ed1ce131a613dd12bc41036f9ebee0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\5ed1ce131a613dd12bc41036f9ebee0d\AndroidManifest.xml:20:5-44
+MERGED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:26:5-28:41
+MERGED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:26:5-28:41
+MERGED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:7:5-9:41
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f1aa48a48ed8656ca851e7609012ad52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f1aa48a48ed8656ca851e7609012ad52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ce0b56e0ddc7873c538e16242c442da2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ce0b56e0ddc7873c538e16242c442da2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4b65530db385cdda49e0784e67029e12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4b65530db385cdda49e0784e67029e12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\343cda36dbdc91db197d508f936a866a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\343cda36dbdc91db197d508f936a866a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b4202117c2bacd0cf59dc09f4f443ed9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b4202117c2bacd0cf59dc09f4f443ed9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\62814d9bd1bb4ea37f78100fd080dc73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\62814d9bd1bb4ea37f78100fd080dc73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\38d1f70ed39900782e9f03d7c2c58029\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\38d1f70ed39900782e9f03d7c2c58029\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d31a39ca61bfaafef3cd1e13c90fd25a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d31a39ca61bfaafef3cd1e13c90fd25a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8e65475d36764f9c9377f1892bd86ca5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8e65475d36764f9c9377f1892bd86ca5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0891f5202afcf1323d0fef880a6a5bce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0891f5202afcf1323d0fef880a6a5bce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3ac1a1435f45969b05c6d9bfabe66a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3ac1a1435f45969b05c6d9bfabe66a7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0e25c1040f9c982b13e458d85ab949a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0e25c1040f9c982b13e458d85ab949a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\21798cc4f73b106981f9288cb078eceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\21798cc4f73b106981f9288cb078eceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\83e88cf74b2811f9517797cf615ab63d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\83e88cf74b2811f9517797cf615ab63d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c4b3c700276ecc42190a96cdc0e43214\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c4b3c700276ecc42190a96cdc0e43214\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1771f6de514aa6b20385aa294bca0ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b1771f6de514aa6b20385aa294bca0ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2525e1d828f1499ca02031774adf0653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2525e1d828f1499ca02031774adf0653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\fde878969475dc0507866a139ca11d2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\fde878969475dc0507866a139ca11d2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\52d8dcd95e40c821349490d4685d57e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\52d8dcd95e40c821349490d4685d57e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\acc53097bd6f9897ffe77b8c02e45980\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\acc53097bd6f9897ffe77b8c02e45980\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ea54fdc63895ee96dccdd1fe72db2ee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ea54fdc63895ee96dccdd1fe72db2ee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e6a26e4c76302b3f65cdbed319fc9943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e6a26e4c76302b3f65cdbed319fc9943\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\bef014365bb18ac9f645a0267a92fa68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\bef014365bb18ac9f645a0267a92fa68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\932ef00f4a94417a7d0f56e2b4aa7256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\932ef00f4a94417a7d0f56e2b4aa7256\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8c88403f22e4e239c2023de968b8b52d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8c88403f22e4e239c2023de968b8b52d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f3b35a2820fc90b22c5c8b23fae4a1d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f3b35a2820fc90b22c5c8b23fae4a1d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b89903f7c24b5a2b0d16da4da7c1390e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b89903f7c24b5a2b0d16da4da7c1390e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+		ADDED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+		INJECTED from C:\Google Drive\Apps\ParaisoAR\src\main\AndroidManifest.xml
+activity#com.google.ar.core.InstallActivity
+ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:33:9-39:80
+	android:excludeFromRecents
+		ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:36:13-46
+	android:launchMode
+		ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:38:13-43
+	android:exported
+		ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:34:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:41:9-43:41
+	android:value
+		ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:43:13-38
+	android:name
+		ADDED from [:core-1.3.0:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\core-1.3.0.aar\c993c26ebf9f28381ed7ee9141300c46\AndroidManifest.xml:42:13-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:11:5-79
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:16:5-79
+MERGED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:11:22-76
+activity#com.unity3d.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:15:9-19:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:17:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:16:13-65
+activity#com.unity3d.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:20:9-24:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:22:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:21:13-76
+activity#com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:25:9-29:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:28:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:27:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:26:13-84
+activity#com.unity3d.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:30:9-34:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:33:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:32:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\25bcd65873edba63151fbd488456a14d\AndroidManifest.xml:31:13-73
+meta-data#com.google.ar.core
+ADDED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:22:9-24:40
+	android:value
+		ADDED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:23:13-46
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:27:9-29:40
+	android:required
+		ADDED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\Elton\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\4d9f8c3dfde01f7e5486af4243e6bf87\AndroidManifest.xml:28:13-54

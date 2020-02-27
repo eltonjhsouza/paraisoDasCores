@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Camera Ar"/>
+
+
+        <item
+            android:id="@+id/instagram"
+            android:icon="@drawable/ic_instagram"
+            android:title="Instagram" />
+
+        <item
+            android:id="@+id/facebook"
+            android:icon="@drawable/ic_facebook_logo"
+            android:title="Facebook"
+            />
+
+        <item
+            android:id="@+id/store"
+            android:icon="@drawable/ic_local_grocery_store_black_24dp"
+            android:title="Loja"
+            />
+        <item
+            android:id="@+id/ajustes"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ajustes"
+            />
+
+    </group>
+
+
+</menu>
